@@ -7,9 +7,6 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &number);
 
-    // Make sure to handle negative numbers
-    number = (number < 0) ? -number : number;
-
     // Calculate the sum of digits
     while (number > 0) {
         digit = number % 10; // Get the last digit
