@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n;
-    unsigned long long factorial = 1;  // Using unsigned long long to handle large results
+    int n;
 
     // Prompt user for input
     printf("Enter a positive integer: ");
