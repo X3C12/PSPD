@@ -2,7 +2,7 @@
 
 int main() {
     int n;
-    unsigned long long factorial = 1//Declare and initialize long  factorial 
+    unsigned long long factorial = 1;//Declare and initialize long  factorial 
 
     // Prompt user for input
     printf("Enter a positive integer: ");
